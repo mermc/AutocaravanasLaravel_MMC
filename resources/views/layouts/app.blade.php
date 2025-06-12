@@ -122,4 +122,8 @@
     @stack('scripts')
     @livewireScripts
 </body>
+<footer style="background-color: #f8f9fa; padding: 1rem; text-align: center; font-size: 0.9rem; border-top: 1px solid #dee2e6;">
+    <strong>Contacto Autocaravanas Milan</strong><br>
+    Teléfono: 953 953 953 &nbsp;|&nbsp; Móvil: 654 654 654 &nbsp;|&nbsp; Correo: <a href="mailto:administracion@milanmc.me">administracion@milanmc.me</a>
+</footer>
 </html>
