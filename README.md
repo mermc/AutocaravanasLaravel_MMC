@@ -24,7 +24,7 @@
 - Base de datos **MySQL**
 - Stripe para pagos
 - Sistema de autenticación y roles (Laravel default)
-- Bootstrap para el frontend (presumiblemente)
+- Bootstrap para el frontend
 
 ---
 
