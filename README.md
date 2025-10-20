@@ -2,8 +2,6 @@
 
 **AutocaravanasLaravel_MMC** es una plataforma web desarrollada con Laravel para la gestión de alquiler de autocaravanas. Permite a los usuarios registrarse, iniciar sesión, consultar vehículos disponibles, realizar reservas y realizar pagos de forma segura mediante Stripe. Los administradores pueden gestionar vehículos y reservas desde un panel de administración.
 
-🔗 Sitio web en producción: [caravanas.milanmc.me](https://caravanas.milanmc.me/)
-
 ---
 
 ## Características principales
