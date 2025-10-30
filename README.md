@@ -7,7 +7,7 @@
 ## Características principales
 
 - Registro e inicio de sesión de usuarios
-  ![LoginRegister](images/loginregister.png "LoginRegister")
+  ![LoginRegister](https://github.com/mermc/AutocaravanasLaravel_MMC/blob/main/storage/app/public/login.jpg)
 - Sistema de roles: Administrador / Usuario
 - CRUD de reservas para usuarios
 - CRUD de vehículos y reservas para administradores
